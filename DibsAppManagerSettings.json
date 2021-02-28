@@ -1,0 +1,12 @@
+{
+	"install7Zip": false,
+	"installFileZilla": false,
+	"installGit": false,
+	"installNode": false,
+	"installNotepadPlusPlus": false,
+	"installPHP": true,
+	"installPython": false,
+	"installRuby": false,
+	"installTortoise": false,
+	"installVs": false
+}
